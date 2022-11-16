@@ -6,10 +6,10 @@
 
 ## Övningar
 
-- [DOM bootcamp](exercises/exercise_sinus.md)
-- [Mdn Basic DOM Manipulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#active_learning_basic_dom_manipulation)
-- [Shopping cart (MDN step-by-step)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#active_learning_a_dynamic_shopping_list)
-- [Shopping cart (advanced)](https://github.com/zocom-christoffer-wallenberg/shopping-cart-exercise)
+1. [DOM bootcamp](exercises/exercise_sinus.md)
+2. [Mdn Basic DOM Manipulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#active_learning_basic_dom_manipulation)
+3. [Shopping cart (MDN step-by-step)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#active_learning_a_dynamic_shopping_list)
+4. [Shopping cart (advanced)](https://github.com/zocom-christoffer-wallenberg/shopping-cart-exercise)
 
 ## Material
 
